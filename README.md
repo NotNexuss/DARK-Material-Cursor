@@ -1,11 +1,11 @@
 <p align="center" width="100%">
-    <img width="75%" src="https://cdn.discordapp.com/attachments/882863142286266420/914412386914553876/New_Project.png">
+    <img width="75%" src="https://cdn.discordapp.com/attachments/882863142286266420/914417717392597062/New_Project_2.png">
 </p>
-<h1 align="center">ItzSidhan's Dark MATERIAL Cursor</h1>
+<h1 align="center">ItzSidhan's DARK Material Cursor</h1>
 
 ### Applying the cursor.
 
-Download the github repo and extract the downloaded file, open the cursors folder and right click on "Install.inf" file, then click install on the context menu and a panel will open automatically, select the "ItzSidhan's Dark MATERIAL Cursor" and click apply and OK.
+Download the github repo and extract the downloaded file, open the cursors folder and right click on "Install.inf" file, then click install on the context menu and a panel will open automatically, select the "ItzSidhan's DARK Material Cursor" and click apply and OK.
 
 #
 
