@@ -3,6 +3,8 @@
 </p>
 <h1 align="center">ItzSidhan's DARK Material Cursor</h1>
 
+## [Download the cursor file](https://github.com/ItzSidhan/DARK-Material-Cursor/raw/main/ItzSidhan's%20DARK%20Material%20Cursor.zip)
+
 ### Applying the cursor.
 
 Download the github repo and extract the downloaded file, open the cursors folder and right click on "Install.inf" file, then click install on the context menu and a panel will open automatically, select the "ItzSidhan's DARK Material Cursor" and click apply and OK.
