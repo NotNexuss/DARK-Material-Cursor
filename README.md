@@ -3,7 +3,7 @@
 </p>
 <h1 align="center">ItzNexus's DARK Material Cursor</h1>
 
-## [Download the cursor file (only compatible for windows)](https://github.com/ItzSidhan/DARK-Material-Cursor/raw/main/ItzSidhan's%20DARK%20Material%20Cursor.zip)
+## [Download the cursor file (only compatible for windows)](https://github.com/NotNexuss/DARK-Material-Cursor/raw/main/ItzNexus's%20DARK%20Material%20Cursor.zip)
 
 ### Applying the cursor.
 
